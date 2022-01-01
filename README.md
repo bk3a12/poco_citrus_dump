@@ -1,0 +1,14 @@
+# qssi-user 11 RKQ1.201004.002 V12.5.5.0.RJFMIXM release-keys
+- manufacturer: xiaomi
+- platform: bengal
+- codename: citrus
+- flavor: qssi-user
+- release: 11
+- id: RKQ1.201004.002
+- incremental: V12.5.5.0.RJFMIXM
+- tags: release-keys
+- fingerprint: POCO/citrus_global/citrus:11/RKQ1.201004.002/V12.5.5.0.RJFMIXM:user/release-keys
+- is_ab: false
+- brand: POCO
+- branch: qssi-user-11-RKQ1.201004.002-V12.5.5.0.RJFMIXM-release-keys
+- repo: poco_citrus_dump
